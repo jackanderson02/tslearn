@@ -8,7 +8,7 @@ There is the illusion of true type safety but it is not there, it just makes dev
 - A crucical first learning is that JavaScript code is TypeScript code just without any types; in fact TypeScript code when ran is actually compiled into JavaScript code; it is then the JavaScript code which actually runs.
 
 ## TypeScript and JavaScript learn/cheat sheets 
-A large proportion of examples/snippets were taken directory from cheath.sh which is itself an open source cheat sheet, providing examples/snippets across numerous languages/frameworks.
+A large proportion of examples/snippets were taken directly from cheath.sh which is itself an open source cheat sheet, providing examples/snippets across numerous languages/frameworks.
 Directories for both [JS](js) and [TS](ts) exist to provide numerous cheat sheats and learnings for the respective languages. Each directory has its own README giving an overview of what is provided in every file.
 
 [TypeScript handbook](https://www.typescriptlang.org/docs/handbook/intro.html) for extra detail or examples.
